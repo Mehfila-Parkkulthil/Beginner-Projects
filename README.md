@@ -4,5 +4,6 @@ All beginner projects done during my learning.
 |:---:|:---:|:---:|
 | 1 | Portfolio | HTML|
 |2 | Survey form | HTML|
-|3 | Survey form | HTML , CSS|
-| 4 | Tribute Page | HTML , CSS|
+| 3 | Cat Photo Page | HTML |
+|4 | Survey form | HTML , CSS|
+| 5 | Tribute Page | HTML , CSS|
