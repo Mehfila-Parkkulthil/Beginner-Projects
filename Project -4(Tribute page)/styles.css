@@ -1,0 +1,29 @@
+*{
+  margin:0;
+}
+header{
+  color:White;
+  background-color:olive;
+  text-align:center;
+  padding:40px;
+}
+h1 {
+  color:rgb(33, 17, 17);
+}
+#image{
+  height:auto;
+  max-width:100%;
+  display:block;
+ margin:0 auto;
+ border-radius:20px;  
+}
+body{
+background-color:beige;
+font-size:20px;
+}
+#main{
+  margin:30px;
+}
+#firstp{
+  text-indent:30px;
+}
